@@ -1,6 +1,3 @@
-# python-source-code
-# output
-
 
 
                                1                                                             A
@@ -38,4 +35,3 @@
                              1 2 1                                                         A B A
                                1                                                             A
                                1                                                             A
-                               
