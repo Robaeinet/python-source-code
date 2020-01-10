@@ -1,4 +1,4 @@
-Text = "Hello world!" 'You can change the Text'
+Text = "Hello world!" #You can change the Text
 ruler1,rulerA = "1" , "A"
 ruler2,rulerB = ruler1 + " 2 " +ruler1 , rulerA + " B " +rulerA
 ruler3,rulerC = ruler2 + " 3 " +ruler2 , rulerB + " C " +rulerB
